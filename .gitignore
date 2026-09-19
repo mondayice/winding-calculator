@@ -1,0 +1,9 @@
+# 会话内部工作文件，不入库
+task_plan.md
+findings.md
+progress.md
+
+# 系统与编辑器杂物
+Thumbs.db
+Desktop.ini
+.DS_Store
