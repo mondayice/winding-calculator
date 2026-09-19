@@ -251,6 +251,9 @@ summary:hover { color: var(--primary-strong); }
 }
 
 .foot { margin-top: 30px; text-align: center; font-size: 0.8rem; color: var(--muted); }
+.foot p { margin: 4px 0; }
+.foot a { color: inherit; text-decoration: underline; text-underline-offset: 3px; transition: color var(--dur); }
+.foot a:hover { color: var(--primary); }
 
 /* ---------- 响应式 ---------- */
 @media (max-width: 560px) {

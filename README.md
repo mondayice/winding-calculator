@@ -125,3 +125,7 @@ winding-calculator/
 ## 版本
 
 - **v1.0.0**（2026-09-07）：首个正式版——正反算双模式、口径切换、浮点安全取整、η 预设、SVG 剖面、深浅色、响应式。
+
+## 许可证
+
+[MIT](LICENSE) © 2026 Mondayice（[mondayice123@163.com](mailto:mondayice123@163.com)）
